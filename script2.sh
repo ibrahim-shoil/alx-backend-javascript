@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define project directory
-PROJECT_DIR="/home/ibram/Desktop/alx/alx-backend-javascript/0x02-ES6_classes"
+PROJECT_DIR="/home/ibram/Desktop/alx/alx-backend-javascript/0x03-ES6_data_manipulation"
 
 # Navigate to project directory
 mkdir -p "$PROJECT_DIR"
